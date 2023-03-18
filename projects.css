@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+.bgimage {
+    height:100vh;
+    background: url('images/projbg.JPG');
+    background-size:cover;
+    position:relative;
+ }
+ .navbar-brand{
+    color: white;
+ }
+ .navbarScroll.navbarDark {
+    background-color: black;
+    transition: .4s;
+ }
+ .hero_title {
+    font-size: 4.5rem;
+    font-family: Poppins, sans-serif;
+    color: white;
+ }
+ .hero_desc {
+    font-size: 1rem;
+    color: white;
+    background-color: transparent;
+ }
+ .form-box{
+    position: absolute;
+    width: 800px;
+    height: 200px;
+    background: transparent;
+    border: none;
+    border-radius: 20px;
+    backdrop-filter: blur(1.5px);
+    display: flex;
+ 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Poppins, sans-serif;
+ } 
+ .main-title{
+     font-family: Poppins, sans-serif;
+     text-align: center;
+     text-decoration: underline;
+     font-weight: bold;
+ }
+ .proj-title{
+     text-decoration: underline;
+     font-family: Poppins,sans-serif;
+     padding-left: 1cm;
+
+ }
+ .proj-desc{
+     font-family: Poppins,sans-serif;
+     padding-left: 1cm;
+     padding-right: 1cm;
+     font-weight: bold;
+ }
+ .container{
+    font-family: Poppins, sans-serif;
+ }
+ .PhotographerDesc{
+    font-family: Poppins,sans-serif;
+ }
+.threeimage{
+   width: 600px;
+   height: auto;
+   padding-left: 1cm;
+}
+.threeimage2{
+   width: 600px;
+   height: auto;
+   padding-left: 1cm;
+}
