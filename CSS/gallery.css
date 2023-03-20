@@ -71,7 +71,7 @@ p{
 }
 .bgimage {
    height:100vh;
-   background: url('images/gallerybg.jpg');
+   background: url('CSS/images/gallerybg.jpg');
    background-size:cover;
    position:relative;
 
