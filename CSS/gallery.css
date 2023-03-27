@@ -116,3 +116,8 @@ p2{
    color: white;
    background-color: transparent;
 }
+.caption{
+   font-family: Poppins, sans-serif;
+   font-style: italic;
+   font-size: small;
+}
